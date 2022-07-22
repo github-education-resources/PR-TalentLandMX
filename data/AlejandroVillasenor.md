@@ -1,1 +1,3 @@
-Yo les recomendaría a los visitantes de Talent Land que descubran y aprendan cosas nuevas, que les permita adquirir nuevas habilidades que mejoren su desempeño académico. El conocimiento nos abre puertas, pero cobra vida cuando lo compartimos. 
+---
+quote: Yo les recomendaría a los visitantes de Talent Land que descubran y aprendan cosas nuevas, que les permita adquirir nuevas habilidades que mejoren su desempeño académico. 
+---
