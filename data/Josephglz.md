@@ -1,0 +1,3 @@
+---
+quote: ¿Alguien dijo Stickers?
+---
