@@ -5,6 +5,8 @@ Participa para ganar uno de los códigos de playeras de GitHub y stickers de Git
 
 ### 1. Crea un PULL request en este repositorio
 
+![alt text for screen readers](https://i.imgur.com/60H2pfl.gif "img pr request").
+
 Dentro del folder data crea un archivo con tu nombre de usuario de GitHub y terminación .md (ej. `<USUARIO>.md`) donde nos digas que 
 
 ¿Qué recomendarías hacer como asistente  durante Talent Land? (Máx. 280 caracteres)
