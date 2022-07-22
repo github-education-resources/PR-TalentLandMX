@@ -1,0 +1,3 @@
+---
+quote: vibrar alto
+---
