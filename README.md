@@ -1,7 +1,7 @@
 # GitHub PR - PicaFresas Request
 
 ## Cómo participar en el PR Picafresas challenge
-Participa para ganar uno de los códigos de playeras de GitHub y stickers de Github, sólo necesitas seguir estos 3 pesos
+Participa para ganar uno de los códigos de playeras de GitHub y stickers de Github, sólo necesitas seguir estos 3 pasos
 
 ### 1. Crea un PULL request en este repositorio
 
