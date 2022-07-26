@@ -1,0 +1,3 @@
+---
+quote: while (! ( succeed = try() ) ) ;
+---
