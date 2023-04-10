@@ -151,7 +151,7 @@ Siéntete libre de volver a solicitarme una revisión y volveré y echaré un vi
   } else {
     // All checks pass
     
-    feedBackMessage = "Excelente, ahora estás a un paso de participar en la rifa de plaeras de GitHub. Encuentra un hubber o Campus Expert para que pueda aceptar tu Pull request y darte stickers de GitHub."
+    feedBackMessage = "Excelente, ahora estás a un paso de ganar stickers exclusivos. Encuentra un hubber o Campus Expert para que pueda aceptar tu Pull request y darte stickers de GitHub."
     
 
     try {
