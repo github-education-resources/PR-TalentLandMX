@@ -1,3 +1,3 @@
 ---
-Quote: Hello World!!
+quote: Hello World!!
 ---
