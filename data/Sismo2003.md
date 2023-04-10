@@ -1,1 +1,3 @@
-Quote: pasar a todos los stands y preguntar por las dinámicas :)
+---
+quote: pasar a todos los stands y preguntar por las dinámicas :)
+---
