@@ -1,3 +1,3 @@
 --- 
-quote: participar en mas actividades 
+quote: aprender git.
 ---
