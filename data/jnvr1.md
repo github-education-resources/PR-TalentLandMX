@@ -1,0 +1,3 @@
+---
+quote: celebra la vida. 
+---
