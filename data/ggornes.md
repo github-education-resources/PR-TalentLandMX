@@ -1,0 +1,3 @@
+---
+quote: Como asistente a Talent Land, te recomiendo aprovechar al máximo las tierras temáticas que más te interesen, asistir a charlas y conferencias de los speakers destacados, participar en retos y hackathones para poner a prueba tus habilidades, y hacer conexiones valiosas con profesionales y empresas en busca de talento. No te pierdas la experiencia de Metaverse Land y disfruta de las actividades gratuitas en Recrea Land. ¡Prepárate para aprender, inspirarte y divertirte!
+---
