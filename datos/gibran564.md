@@ -1,0 +1,3 @@
+---
+quote: cogito ergo sum
+---
