@@ -1,1 +1,3 @@
-
+---
+quote: hola.js
+---
