@@ -1,3 +1,0 @@
---- 
-quote: aprender git.
----
