@@ -1,1 +1,3 @@
-Espero adquirir conocimiento 
+---
+quote: Espero adquirir mas conocimiento
+---
