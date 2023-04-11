@@ -1,0 +1,1 @@
+Mi recomendación como participante en el talent land 2023 es que exista la posibilidad de quepodamos participar en talleres de aprendizaje y en ellos explicar una introducción de temas variados acorde a cada land
