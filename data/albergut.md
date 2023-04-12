@@ -1,1 +1,3 @@
-Manera te future
+---
+quote: Manera te future
+---
