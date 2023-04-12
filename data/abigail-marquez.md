@@ -1,0 +1,3 @@
+---
+quote: para gustos colores
+---
