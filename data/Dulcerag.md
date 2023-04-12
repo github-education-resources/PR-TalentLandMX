@@ -1,3 +1,3 @@
 ---
-Quote: mereces lo que sueñas (:
+quote: mereces lo que sueñas (:
 ---
