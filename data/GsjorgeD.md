@@ -1,0 +1,3 @@
+---
+quote: tu frase aquí.
+---
