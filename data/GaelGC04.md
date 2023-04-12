@@ -1,0 +1,3 @@
+---
+quote: agregar más actividades
+---
