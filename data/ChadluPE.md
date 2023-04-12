@@ -1,0 +1,3 @@
+---
+quote: viva el lol
+---
