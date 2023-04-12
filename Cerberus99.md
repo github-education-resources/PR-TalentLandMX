@@ -1,0 +1,3 @@
+---
+quote: coding is fun
+---
