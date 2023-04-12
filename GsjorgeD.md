@@ -1,0 +1,2 @@
+---
+quote: saludos desde talent !!!!
