@@ -1,0 +1,3 @@
+---
+quote: Haciendo la actividad
+---
