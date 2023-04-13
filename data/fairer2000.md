@@ -1,0 +1,8 @@
+---
+quotebSin duda alguna hay varias actividades dentro del evento.
+De lo que recomendaría sería ir a conferencias que pueden ayudar a su formación o que le permitan
+estar al día a día con los temas de hoy, participar en workshops donde pueda adquirir nuevas habilidades y conocer a personas interesadas en el mismo tema,
+visitar los stands y participar en los eventos o retos internos que tienen para los asistentes (hasta podría llevarse un premio XD). Aunque se trate
+de tecnología el evento también podrá participar en eventos de talent land (talent match o Djs) donde pueda divertirse con
+los demás asistentes en el evento.
+---
