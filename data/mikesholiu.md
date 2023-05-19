@@ -1,3 +1,3 @@
 ---
-Quote: Recomendo visitar stand de Roblox!
+quote: Recomendo visitar stand de Roblox!
 ---
