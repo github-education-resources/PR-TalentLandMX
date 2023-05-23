@@ -1,0 +1,3 @@
+---
+quote: Motomami motomami.
+---
