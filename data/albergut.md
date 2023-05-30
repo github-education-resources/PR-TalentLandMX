@@ -1,0 +1,3 @@
+---
+quote: Manera te future
+---

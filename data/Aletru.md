@@ -1,0 +1,3 @@
+---
+quote: quiero stickers
+---

@@ -1,0 +1,3 @@
+---
+quote: muy buena dinámica
+---
