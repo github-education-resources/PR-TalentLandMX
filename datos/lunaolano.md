@@ -1,0 +1,3 @@
+---
+quote: Hello world
+---
